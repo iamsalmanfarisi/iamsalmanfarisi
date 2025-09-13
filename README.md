@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @iamsalmanfarisi
-- 👀 I’m interested in Web Designing and App Development
-- 🌱 I’m currently learning BootStrap
-- 📫 How to reach me: iamsalmanfarisi@gmail.com
+# Hi, I'm Salman 👋  
 
-<!---
-iamsalmanfarisi/iamsalmanfarisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Developer | .NET Full Stack with Angular  
+🔧 Building APIs, scalable systems & clean code  
+📚 Always learning, exploring new tech  
+
+### ⚡ Tech Stack
+- .NET Core • C# • EF Core  
+- SQL • Kafka • Quartz.NET
+- Oracle DB
+- Angular
+
+### 🌱 Currently
+- Sharpening problem-solving with DSA  
+- Exploring microservices & clean architecture
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."* Haha, please don't report me for this.
